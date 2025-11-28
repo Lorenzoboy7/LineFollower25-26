@@ -10,10 +10,10 @@
 |         5|   AA BATTERIJ | AA BATTERIJEN 4x | NIEUW      |     6,27    |  1 |    6,27
 |         6|   BATERIJHOUDER | 4x AA BATERIJHOUDER  | NIEUW     |     2,90   |  1 |     2,90
 |         7|   BLUETOOTH MODULE | HC-05  | NIEUW     |     5,80   |  1 |     5,80
-|         9|   WIELEN |  POLOLU WIELEN 40x7 MM | NIEUW     |     5,10   |  1 |     5,10
-|         10|   BREADBOARD |  BREADBOARD | NIEUW     |     2,15   |  1 |     2,15
-|         11|   BALL CASTER |  POLOLU BALL CASTER | NIEUW     |     2,90  |  1 |     2,90
-|         12|   KABELS| DUPONT JUMPER KABELS  | RECUP     |     0   |  25 |     0
+|         8|   WIELEN |  POLOLU WIELEN 40x7 MM | NIEUW     |     5,10   |  1 |     5,10
+|         9|   BREADBOARD |  BREADBOARD | NIEUW     |     2,15   |  1 |     2,15
+|         10|   BALL CASTER |  POLOLU BALL CASTER | NIEUW     |     2,90  |  1 |     2,90
+|         11|   KABELS| DUPONT JUMPER KABELS  | RECUP     |     0   |  25 |     0
 
 Totaalprijs: €52,46
 
