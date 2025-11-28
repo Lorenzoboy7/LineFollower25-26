@@ -15,4 +15,5 @@
 |         11|   BALL CASTER |  POLOLU BALL CASTER | NIEUW     |     2,90  |  1 |     2,90
 |         12|   KABELS| DUPONT JUMPER KABELS  | RECUP     |     0   |  25 |     0
 
+Totaalprijs: €52,46
 
