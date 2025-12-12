@@ -7,7 +7,7 @@ const byte rxPin = 9;
 const byte txPin = 8;
 #define Baudrate 9600
 
-#define MotorLeftForward 10
+#define MotorLeftForward 3
 #define MotorLeftBackward 11
 #define MotorRightForward 5
 #define MotorRightBackward 6
